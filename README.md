@@ -33,4 +33,4 @@ Generate strong passwords with a single click — customizable, copyable, and co
 
 ---
 
-🔧#CREATED BY NAVNEET JAGURI WITH ❤
+🔧CREATED BY NAVNEET JAGURI WITH ❤
