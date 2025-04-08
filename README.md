@@ -29,11 +29,8 @@ Generate strong passwords with a single click — customizable, copyable, and co
 
 1. 📥 **Clone** the repository:
    ```bash
-   git clone https://github.com/your-username/password-generator.git
+   git clone https://github.com/your-ironman12133/password-generator.git
 
 ---
 
-🔧 **Optional Tip:**  
-Replace `https://github.com/your-username/password-generator.git` and the profile link with your actual GitHub username to personalize it fully.
-
-Let me know if you want me to create a `README.md` file and package it in a ZIP with your project files too!
+🔧#CREATED BY NAVNEET JAGURI WITH ❤
